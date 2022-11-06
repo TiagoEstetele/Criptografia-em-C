@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667775704 source:c:\users\tiago\onedrive\Área de trabalho\criptografiatiago\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
